@@ -53,213 +53,402 @@
       ]
     },
     {
-      "id": "global_mortality_indicators",
-      "name": "Indicateurs de Mortalité",
-      "description": "Indicateurs complets de mortalité incluant les taux de mortalité globale et les indicateurs spécifiques au paludisme pour le Burkina Faso",
+      "id": "vue_ensemble",
+      "name": "Indicateurs de Mortalite",
       "enabled": true,
-      "categories": [
+      "sections": [
         {
-          "id": "infant_juvenile_mortality",
-          "name": "Taux de Mortalité Infanto-Juvénile",
-          "description": "Taux de mortalité pour les enfants et juvéniles",
-          "age_group": "0-18 ans",
-          "unit": "pour 1 000 naissances vivantes",
+          "id": "mortalite_infanto_juvenile",
+          "title": "Taux de Mortalité Infanto-Juvénile",
           "enabled": true,
-          "levels": [
+          "subsections": [
             {
-              "id": "infant_juvenile_national",
-              "name": "National",
-              "images": [
-                "infant_juvenile_mortality_national_trend_1.png",
-                "infant_juvenile_mortality_national_trend_2.png"
-              ]
+              "title": "National",
+              "images": ["obj1.png", "obj2.png"]
             },
             {
-              "id": "infant_juvenile_regional",
-              "name": "Régional",
-              "images": [
-                "infant_juvenile_mortality_regional_trend_1.png",
-                "infant_juvenile_mortality_regional_trend_2.png"
-              ]
+              "title": "Regional", 
+              "images": ["method.png", "image.png"]
             },
             {
-              "id": "infant_juvenile_district",
-              "name": "District",
-              "images": [
-                "infant_juvenile_mortality_district_trend_1.png",
-                "infant_juvenile_mortality_district_trend_2.png"
-              ]
-            }
+              "title": "District", 
+              "images": ["method.png", "image.png"]
+            }          
           ]
         },
         {
-          "id": "infant_mortality",
-          "name": "Taux de Mortalité Infantile",
-          "description": "Taux de mortalité pour les nourrissons",
-          "age_group": "0-1 an",
-          "unit": "pour 1 000 naissances vivantes",
+          "id": "mortalite_infantile",
+          "title": "Taux de Mortalité Infantile",
           "enabled": true,
-          "levels": [
+          "subsections": [
             {
-              "id": "infant_national",
-              "name": "National",
-              "images": [
-                "infant_mortality_national_trend_1.png",
-                "infant_mortality_national_trend_2.png"
-              ]
+              "title": "National",
+              "images": ["obj1.png", "obj2.png"]
             },
             {
-              "id": "infant_regional",
-              "name": "Régional",
-              "images": [
-                "infant_mortality_regional_trend_1.png",
-                "infant_mortality_regional_trend_2.png"
-              ]
+              "title": "Regional", 
+              "images": ["method.png", "image.png"]
             },
             {
-              "id": "infant_district",
-              "name": "District",
-              "images": [
-                "infant_mortality_district_trend_1.png",
-                "infant_mortality_district_trend_2.png"
-              ]
-            }
+              "title": "District", 
+              "images": ["method.png", "image.png"]
+            }          
           ]
         },
         {
-          "id": "neonatal_mortality",
-          "name": "Taux de Mortalité Néonatale",
-          "description": "Taux de mortalité pour les nouveau-nés",
-          "age_group": "0-28 jours",
-          "unit": "pour 1 000 naissances vivantes",
+          "id": "mortalite_neonatale",
+          "title": "Taux de Mortalité Néonatale",
           "enabled": true,
-          "levels": [
+          "subsections": [
             {
-              "id": "neonatal_national",
-              "name": "National",
-              "images": [
-                "neonatal_mortality_national_trend_1.png",
-                "neonatal_mortality_national_trend_2.png"
-              ]
+              "title": "National",
+              "images": ["obj1.png", "obj2.png"]
             },
             {
-              "id": "neonatal_regional",
-              "name": "Régional",
-              "images": [
-                "neonatal_mortality_regional_trend_1.png",
-                "neonatal_mortality_regional_trend_2.png"
-              ]
+              "title": "Regional", 
+              "images": ["method.png", "image.png"]
             },
             {
-              "id": "neonatal_district",
-              "name": "District",
-              "images": [
-                "neonatal_mortality_district_trend_1.png",
-                "neonatal_mortality_district_trend_2.png"
-              ]
-            }
+              "title": "District", 
+              "images": ["method.png", "image.png"]
+            }          
           ]
         },
         {
-          "id": "maternal_mortality",
-          "name": "Taux de Mortalité Maternelle",
-          "description": "Taux de mortalité pour les mères pendant la grossesse, l'accouchement et le post-partum",
-          "age_group": "âge reproductif",
-          "unit": "pour 100 000 naissances vivantes",
+          "id": "mortalite_maternelle",
+          "title": "Taux de Mortalité Maternelle",
           "enabled": true,
-          "levels": [
+          "subsections": [
             {
-              "id": "maternal_national",
-              "name": "National",
-              "images": [
-                "maternal_mortality_national_trend_1.png",
-                "maternal_mortality_national_trend_2.png"
-              ]
+              "title": "National",
+              "images": ["obj1.png", "obj2.png"]
             },
             {
-              "id": "maternal_regional",
-              "name": "Régional",
-              "images": [
-                "maternal_mortality_regional_trend_1.png",
-                "maternal_mortality_regional_trend_2.png"
-              ]
+              "title": "Regional", 
+              "images": ["method.png", "image.png"]
             },
             {
-              "id": "maternal_district",
-              "name": "District",
-              "images": [
-                "maternal_mortality_district_trend_1.png",
-                "maternal_mortality_district_trend_2.png"
-              ]
-            }
+              "title": "District", 
+              "images": ["method.png", "image.png"]
+            }          
           ]
         },
         {
-          "id": "child_mortality_5_14",
-          "name": "Taux de Mortalité des Enfants de 5 à 14 ans",
-          "description": "Taux de mortalité pour les enfants âgés de 5 à 14 ans",
-          "age_group": "5-14 ans",
-          "unit": "pour 1 000 population",
+          "id": "mortalite_5_14_ans",
+          "title": "Taux de Mortalité des Enfants de 5 à 14 ans",
           "enabled": true,
-          "levels": [
+          "subsections": [
             {
-              "id": "child_5_14_national",
-              "name": "National",
-              "images": [
-                "child_5_14_mortality_national_trend_1.png",
-                "child_5_14_mortality_national_trend_2.png"
-              ]
+              "title": "National",
+              "images": ["obj1.png", "obj2.png"]
             },
             {
-              "id": "child_5_14_regional",
-              "name": "Régional",
-              "images": [
-                "child_5_14_mortality_regional_trend_1.png",
-                "child_5_14_mortality_regional_trend_2.png"
-              ]
+              "title": "Regional", 
+              "images": ["method.png", "image.png"]
             },
             {
-              "id": "child_5_14_district",
-              "name": "District",
-              "images": [
-                "child_5_14_mortality_district_trend_1.png",
-                "child_5_14_mortality_district_trend_2.png"
-              ]
-            }
+              "title": "District", 
+              "images": ["method.png", "image.png"]
+            }          
           ]
         },
         {
-          "id": "adult_mortality",
-          "name": "Taux de Mortalité des Adultes",
-          "description": "Taux de mortalité pour les adultes",
-          "age_group": "15+ ans",
-          "unit": "pour 1 000 population",
+          "id": "mortalite_adultes",
+          "title": "Taux de Mortalité des Adultes",
           "enabled": true,
-          "levels": [
+          "subsections": [
             {
-              "id": "adult_national",
-              "name": "National",
-              "images": [
-                "adult_mortality_national_trend_1.png",
-                "adult_mortality_national_trend_2.png"
-              ]
+              "title": "National",
+              "images": ["obj1.png", "obj2.png"]
             },
             {
-              "id": "adult_regional",
-              "name": "Régional",
-              "images": [
-                "adult_mortality_regional_trend_1.png",
-                "adult_mortality_regional_trend_2.png"
-              ]
+              "title": "Regional", 
+              "images": ["method.png", "image.png"]
             },
             {
-              "id": "adult_district",
-              "name": "District",
-              "images": [
-                "adult_mortality_district_trend_1.png",
-                "adult_mortality_district_trend_2.png"
-              ]
-            }
+              "title": "District", 
+              "images": ["method.png", "image.png"]
+            }          
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mortalite_specifique",
+      "name": "Mortalité Spécifique",
+      "enabled": true,
+      "sections": [
+        {
+          "id": "mortalite_paludisme",
+          "title": "Mortalité Spécifique du Paludisme",
+          "enabled": true,
+          "subsections": [
+            {
+              "title": "National",
+              "images": ["obj1.png", "obj2.png"]
+            },
+            {
+              "title": "Regional", 
+              "images": ["method.png", "image.png"]
+            },
+            {
+              "title": "District", 
+              "images": ["method.png", "image.png"]
+            }          
+          ]
+        },
+        {
+          "id": "mortalite_respiratoire",
+          "title": "Mortalité Spécifique des Maladies Respiratoires",
+          "enabled": true,
+          "subsections": [
+            {
+              "title": "National",
+              "images": ["obj1.png", "obj2.png"]
+            },
+            {
+              "title": "Regional", 
+              "images": ["method.png", "image.png"]
+            },
+            {
+              "title": "District", 
+              "images": ["method.png", "image.png"]
+            }          
+          ]
+        },
+        {
+          "id": "mortalite_diarrheique",
+          "title": "Mortalité Spécifique des Maladies Diarrhéiques",
+          "enabled": true,
+          "subsections": [
+            {
+              "title": "National",
+              "images": ["obj1.png", "obj2.png"]
+            },
+            {
+              "title": "Regional", 
+              "images": ["method.png", "image.png"]
+            },
+            {
+              "title": "District", 
+              "images": ["method.png", "image.png"]
+            }          
+          ]
+        },
+        {
+          "id": "mortalite_malnutrition",
+          "title": "Mortalité Spécifique de la Malnutrition Aiguë Sévère",
+          "enabled": true,
+          "subsections": [
+            {
+              "title": "National",
+              "images": ["obj1.png", "obj2.png"]
+            },
+            {
+              "title": "Regional", 
+              "images": ["method.png", "image.png"]
+            },
+            {
+              "title": "District", 
+              "images": ["method.png", "image.png"]
+            }          
+          ]
+        },
+        {
+          "id": "mortalite_anemie",
+          "title": "Mortalité Spécifique de l'Anémie",
+          "enabled": true,
+          "subsections": [
+            {
+              "title": "National",
+              "images": ["obj1.png", "obj2.png"]
+            },
+            {
+              "title": "Regional", 
+              "images": ["method.png", "image.png"]
+            },
+            {
+              "title": "District", 
+              "images": ["method.png", "image.png"]
+            }          
+          ]
+        },
+        {
+          "id": "mortalite_hemorragies",
+          "title": "Mortalité Spécifique des Hémorragies chez la Femme",
+          "enabled": true,
+          "subsections": [
+            {
+              "title": "National",
+              "images": ["obj1.png", "obj2.png"]
+            },
+            {
+              "title": "Regional", 
+              "images": ["method.png", "image.png"]
+            },
+            {
+              "title": "District", 
+              "images": ["method.png", "image.png"]
+            }          
+          ]
+        },
+        {
+          "id": "mortalite_infections_neonatales",
+          "title": "Mortalité Spécifique des Infections Néonatales",
+          "enabled": true,
+          "subsections": [
+            {
+              "title": "National",
+              "images": ["obj1.png", "obj2.png"]
+            },
+            {
+              "title": "Regional", 
+              "images": ["method.png", "image.png"]
+            },
+            {
+              "title": "District", 
+              "images": ["method.png", "image.png"]
+            }          
+          ]
+        }   
+      ]
+    },
+    {
+      "id": "indicateurs_letalite",
+      "name": "Indicateurs de Létalité",
+      "enabled": true,
+      "sections": [
+        {
+          "id": "letalite_paludisme",
+          "title": "Létalité du Paludisme",
+          "enabled": true,
+          "subsections": [
+            {
+              "title": "National",
+              "images": ["obj1.png", "obj2.png"]
+            },
+            {
+              "title": "Regional", 
+              "images": ["method.png", "image.png"]
+            },
+            {
+              "title": "District", 
+              "images": ["method.png", "image.png"]
+            }          
+          ]
+        },
+        {
+          "id": "letalite_respiratoire",
+          "title": "Létalité des Maladies Respiratoires",
+          "enabled": true,
+          "subsections": [
+            {
+              "title": "National",
+              "images": ["obj1.png", "obj2.png"]
+            },
+            {
+              "title": "Regional", 
+              "images": ["method.png", "image.png"]
+            },
+            {
+              "title": "District", 
+              "images": ["method.png", "image.png"]
+            }          
+          ]
+        },
+        {
+          "id": "letalite_diarrheique",
+          "title": "Létalité des Maladies Diarrhéiques",
+          "enabled": true,
+          "subsections": [
+            {
+              "title": "National",
+              "images": ["obj1.png", "obj2.png"]
+            },
+            {
+              "title": "Regional", 
+              "images": ["method.png", "image.png"]
+            },
+            {
+              "title": "District", 
+              "images": ["method.png", "image.png"]
+            }          
+          ]
+        },
+        {
+          "id": "letalite_malnutrition",
+          "title": "Létalité de la Malnutrition Aiguë Sévère",
+          "enabled": true,
+          "subsections": [
+            {
+              "title": "National",
+              "images": ["obj1.png", "obj2.png"]
+            },
+            {
+              "title": "Regional", 
+              "images": ["method.png", "image.png"]
+            },
+            {
+              "title": "District", 
+              "images": ["method.png", "image.png"]
+            }          
+          ]
+        },
+        {
+          "id": "letalite_anemie",
+          "title": "Létalité de l'Anémie",
+          "enabled": true,
+          "subsections": [
+            {
+              "title": "National",
+              "images": ["obj1.png", "obj2.png"]
+            },
+            {
+              "title": "Regional", 
+              "images": ["method.png", "image.png"]
+            },
+            {
+              "title": "District", 
+              "images": ["method.png", "image.png"]
+            }          
+          ]
+        },
+        {
+          "id": "letalite_hemorragies",
+          "title": "Létalité des Hémorragies chez la Femme",
+          "enabled": true,
+          "subsections": [
+            {
+              "title": "National",
+              "images": ["obj1.png", "obj2.png"]
+            },
+            {
+              "title": "Regional", 
+              "images": ["method.png", "image.png"]
+            },
+            {
+              "title": "District", 
+              "images": ["method.png", "image.png"]
+            }          
+          ]
+        },
+        {
+          "id": "letalite_infections_neonatales",
+          "title": "Létalité des Infections Néonatales",
+          "enabled": true,
+          "subsections": [
+            {
+              "title": "National",
+              "images": ["obj1.png", "obj2.png"]
+            },
+            {
+              "title": "Regional", 
+              "images": ["method.png", "image.png"]
+            },
+            {
+              "title": "District", 
+              "images": ["method.png", "image.png"]
+            }          
           ]
         }
       ]
