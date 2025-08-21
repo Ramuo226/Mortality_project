@@ -64,7 +64,10 @@
           "subsections": [
             {
               "title": "National",
-              "images": ["Nenonat_nat.png", "Neonat_nat_endos.png"]
+              "content": "Neaonat"
+              "images": ["Nenonat_nat.png"],
+              "content": ["endos"],
+              "images": ["Neonat_nat_endos"]
             },
             {
               "title": "Regional", 
