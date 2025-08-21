@@ -103,15 +103,15 @@
           "subsections": [
             {
               "title": "National",
-              "images": ["obj1.png", "obj2.png"]
+              "images": ["Infanto-Juvenile/under5_nat_endos.png", "Infanto-Juvenile/under5_nat_survey.png"]
             },
             {
               "title": "Regional", 
-              "images": ["method.png", "image.png"]
+              "images": ["Infanto-Juvenile/under5_region_endos.png", "Infanto-Juvenile/under5_region_survey.png"]
             },
             {
               "title": "District", 
-              "images": ["method.png", "image.png"]
+              "images": ["Infanto-Juvenile/under5_district_endos.png", "Infanto-Juvenile/under5_district_survey.png"]
             }          
           ]
         },
