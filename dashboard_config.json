@@ -69,7 +69,7 @@
             },
             {
               "title": "Regional", 
-              "images": ["Neonat_re"]
+              "images": ["Neonat_region_endos.png", "Neonat_region_survey.png"]
             },
             {
               "title": "District", 
@@ -122,15 +122,15 @@
           "subsections": [
             {
               "title": "National",
-              "images": ["obj1.png", "obj2.png"]
+              "images": ["enft5_14_nat_endos.png"]
             },
             {
               "title": "Regional", 
-              "images": ["method.png", "image.png"]
+              "images": ["enft5_14_region_endos.png"]
             },
             {
               "title": "District", 
-              "images": ["method.png", "image.png"]
+              "images": ["enft5_14_district_endos.png"]
             }          
           ]
         },
@@ -141,7 +141,7 @@
           "subsections": [
             {
               "title": "National",
-              "images": ["obj1.png", "obj2.png"]
+              "images": ["meternel_nat_endos.png"]
             },
             {
               "title": "Regional", 
