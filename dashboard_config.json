@@ -84,11 +84,11 @@
           "subsections": [
             {
               "title": "National",
-              "images": ["infantile_nat_survey.png"]
+              "images": ["infantile/infantile_nat_survey.png"]
             },
             {
               "title": "Regional", 
-              "images": ["method.png", "image.png"]
+              "images": ["infantile/infantile_region_survey.png"]
             },
             {
               "title": "District", 
