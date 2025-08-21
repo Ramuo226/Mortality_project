@@ -536,7 +536,7 @@
           ]
         },
         {
-          "id": "letalite_respiratoire",
+          "id": "letalite_respiratoire",  
           "title": "Létalité des Maladies Respiratoires",
           "enabled": true,
           "subsections": [
