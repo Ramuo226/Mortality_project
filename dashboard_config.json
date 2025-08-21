@@ -63,15 +63,13 @@
           "enabled": true,
           "subsections": [
             {
-              "title": "National",
-              "content": "Neaonat"
-              "images": ["Nenonat_nat.png"],
-              "content": ["endos"],
-              "images": ["Neonat_nat_endos"]
+              "title": "National",    
+              "images": ["Nenonat_nat.png"]
+        
             },
             {
               "title": "Regional", 
-              "images": ["method.png", "image.png"]
+              "images": ["Neonat_region_endos.png"]
             },
             {
               "title": "District", 
