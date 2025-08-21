@@ -219,6 +219,24 @@
                   "images": ["method.png", "image.png"]
                 }
               ]
+            },
+            {
+              "title": "Letalite",
+            
+              "indicators": [
+                {
+                  "name": "National",
+                  "images": ["obj1.png", "obj2.png"]
+                },
+                {
+                  "name": "Regional",
+                  "images": ["method.png", "image.png"]
+                },
+                {
+                  "name": "District",
+                  "images": ["method.png", "image.png"]
+                }
+              ]
             }
           ]
         },
@@ -264,7 +282,7 @@
               ]
             },
             {
-              "title": "Prévalence des Cas",
+              "title": "Morbidite",
         
               "indicators": [
                 {
@@ -447,7 +465,25 @@
               ]
             },
             {
-              "title": "Létalité chez les Cas Sévères",
+              "title": "Létalité",
+        
+              "indicators": [
+                {
+                  "name": "National",
+                  "images": ["obj1.png", "obj2.png"]
+                },
+                {
+                  "name": "Regional",
+                  "images": ["method.png", "image.png"]
+                },
+                {
+                  "name": "District",
+                  "images": ["method.png", "image.png"]
+                }
+              ]
+            },
+            {
+              "title": "Morbidite",
         
               "indicators": [
                 {
@@ -472,7 +508,7 @@
           "enabled": true,
           "subsections": [
             {
-              "title": "Mortalité Néonatale Attribuable",
+              "title": "Mortalité specique",
         
               "indicators": [
                 {
@@ -490,7 +526,25 @@
               ]
             },
             {
-              "title": "Létalité en Milieu Hospitalier",
+              "title": "Létalité",
+        
+              "indicators": [
+                {
+                  "name": "National",
+                  "images": ["obj1.png", "obj2.png"]
+                },
+                {
+                  "name": "Regional",
+                  "images": ["method.png", "image.png"]
+                },
+                {
+                  "name": "District",
+                  "images": ["method.png", "image.png"]
+                }
+              ]
+            },
+            {
+              "title": "Morbidite",
         
               "indicators": [
                 {
