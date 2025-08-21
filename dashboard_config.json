@@ -64,16 +64,16 @@
           "subsections": [
             {
               "title": "National",    
-              "images": ["Nenonat_nat.png"]
+              "images": ["Nenonat_nat.png", ["Neonat_nat_endos.png"]
         
             },
             {
               "title": "Regional", 
-              "images": ["Neonat_region_endos.png"]
+              "images": ["Neonat_region_endos.png", "Neonat_region_survey"]
             },
             {
               "title": "District", 
-              "images": ["method.png", "image.png"]
+              "images": ["Neonat_district_endos.png"]
             }          
           ]
         },
@@ -84,7 +84,7 @@
           "subsections": [
             {
               "title": "National",
-              "images": ["obj1.png", "obj2.png"]
+              "images": ["infantile_nat_survey.png"]
             },
             {
               "title": "Regional", 
