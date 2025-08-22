@@ -573,7 +573,7 @@
         }
       ]
     },
-    {
+    {  
       "id": "indicateurs_letalite",
       "name": "Indicateurs de Létalité",
       "enabled": true,
