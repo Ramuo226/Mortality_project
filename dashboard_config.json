@@ -79,7 +79,7 @@
         },
         {
           "id": "mortalite_infantile",
-          "title": "Taux de Mortalité Infantile",
+          "title": "Mortalité Infantile",
           "enabled": true,
           "subsections": [
             {
@@ -88,12 +88,9 @@
             },
             {
               "title": "Regional", 
-              "images": ["infantile/infantile_region_survey.png"]
-            },
-            {
-              "title": "District", 
-              "images": ["method.png", "image.png"]
-            }          
+              "images": ["infantile_region_survey.png"]
+            }
+                      
           ]
         },
         {
@@ -122,15 +119,15 @@
           "subsections": [
             {
               "title": "National",
-              "images": ["enft5_14_nat_endos.png"]
+              "images": ["enft5_14/enft5_14_nat_endos.png"]
             },
             {
               "title": "Regional", 
-              "images": ["enft5_14_region_endos.png"]
+              "images": ["enft5_14/enft5_14_region_endos.png"]
             },
             {
               "title": "District", 
-              "images": ["enft5_14_district_endos.png"]
+              "images": ["enft5_14/enft5_14_district_endos.png"]
             }          
           ]
         },
