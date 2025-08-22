@@ -187,11 +187,11 @@
               "indicators": [
                 {
                   "name": "National",
-                  "images": ["Palu_mortalite.png"]
+                  "images": ["Paludisme/Palu_mortalite.png"]
                 },
                 {
                   "name": "Regional",
-                  "images": ["Palu_region_mortalite.png"]
+                  "images": ["Paludisme/Palu_region_mortalite.png"]
                 }
                 
               ]
@@ -203,11 +203,11 @@
               "indicators": [
                 {
                   "name": "National",
-                  "images": ["palu_letalite.png"]
+                  "images": ["Paludisme/palu_letalite.png"]
                 },
                 {
                   "name": "Regional",
-                  "images": ["palu_region_letalite.png"]
+                  "images": ["Paludisme/palu_region_letalite.png"]
                 }
                 
               ]
@@ -218,11 +218,11 @@
               "indicators": [
                 {
                   "name": "National",
-                  "images": ["Palu_nat_morbodite.png"]
+                  "images": ["Paludisme/Palu_nat_morbodite.png"]
                 },
                 {
                   "name": "Regional",
-                  "images": ["palu_region_morbidite.png"]
+                  "images": ["Paludisme/palu_region_morbidite.png"]
                 }
                 
               ]
@@ -240,16 +240,13 @@
               "indicators": [
                 {
                   "name": "National",
-                  "images": ["obj1.png", "obj2.png"]
+                  "images": ["Respiratoire/respi_nat_mortalite.png"]
                 },
                 {
                   "name": "Regional",
-                  "images": ["method.png", "image.png"]
-                },
-                {
-                  "name": "District",
-                  "images": ["method.png", "image.png"]
+                  "images": ["Respiratoire/Respi_region_mortalite.png"]
                 }
+                
               ]
             },
             {
@@ -258,16 +255,13 @@
               "indicators": [
                 {
                   "name": "National",
-                  "images": ["obj1.png", "obj2.png"]
+                  "images": ["Respiratoire/respi_nat_letalite.png"]
                 },
                 {
                   "name": "Regional",
-                  "images": ["method.png", "image.png"]
-                },
-                {
-                  "name": "District",
-                  "images": ["method.png", "image.png"]
+                  "images": ["Respiratoire/respi_region_letalite.png"]
                 }
+                
               ]
             },
             {
