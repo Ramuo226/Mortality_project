@@ -138,16 +138,9 @@
           "subsections": [
             {
               "title": "National",
-              "images": ["meternel_nat_endos.png"]
-            },
-            {
-              "title": "Regional", 
-              "images": ["method.png", "image.png"]
-            },
-            {
-              "title": "District", 
-              "images": ["method.png", "image.png"]
-            }          
+              "images": ["deces_maternel/meternel_nat_endos.png"]
+            }
+                    
           ]
         },
         {
@@ -158,15 +151,8 @@
             {
               "title": "National",
               "images": ["obj1.png", "obj2.png"]
-            },
-            {
-              "title": "Regional", 
-              "images": ["method.png", "image.png"]
-            },
-            {
-              "title": "District", 
-              "images": ["method.png", "image.png"]
-            }          
+            }
+                    
           ]
         }
       ]
@@ -292,16 +278,13 @@
               "indicators": [
                 {
                   "name": "National",
-                  "images": ["obj1.png", "obj2.png"]
+                  "images": ["Diarrhee/Diarr_nat_mortalite.png"]
                 },
                 {
                   "name": "Regional",
-                  "images": ["method.png", "image.png"]
-                },
-                {
-                  "name": "District",
-                  "images": ["method.png", "image.png"]
+                  "images": ["Diarrhee/Diarr_regioj.png"]
                 }
+                
               ]
             },
             {
@@ -310,16 +293,13 @@
               "indicators": [
                 {
                   "name": "National",
-                  "images": ["obj1.png", "obj2.png"]
+                  "images": ["Diarrhee/Diarr_nat_letalite.png"]
                 },
                 {
                   "name": "Regional",
-                  "images": ["method.png", "image.png"]
-                },
-                {
-                  "name": "District",
-                  "images": ["method.png", "image.png"]
+                  "images": ["Diarrhee/Diarr_region_letalite.png"]
                 }
+               
               ]
             },
             {
@@ -328,16 +308,13 @@
               "indicators": [
                 {
                   "name": "National",
-                  "images": ["obj1.png", "obj2.png"]
+                  "images": ["Diarrhee/Diarr_nat_morbidite.png"]
                 },
                 {
                   "name": "Regional",
-                  "images": ["method.png", "image.png"]
-                },
-                {
-                  "name": "District",
-                  "images": ["method.png", "image.png"]
+                  "images": ["Diarrhee/Diarr_region_morbidite.png"]
                 }
+                
               ]
             }
           ]
