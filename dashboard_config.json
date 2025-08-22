@@ -190,54 +190,46 @@
               "indicators": [
                 {
                   "name": "National",
-                  "images": ["obj1.png", "obj2.png"]
+                  "images": ["Palu_mortalite.png"]
                 },
                 {
                   "name": "Regional",
-                  "images": ["method.png", "image.png"]
-                },
-                {
-                  "name": "District",
-                  "images": ["method.png", "image.png"]
+                  "images": ["Palu_region_mortalite.png"]
                 }
+                
               ]
             },
-            {
-              "title": "Proportion de Cas Confirmés",
             
-              "indicators": [
-                {
-                  "name": "National",
-                  "images": ["obj1.png", "obj2.png"]
-                },
-                {
-                  "name": "Regional",
-                  "images": ["method.png", "image.png"]
-                },
-                {
-                  "name": "District",
-                  "images": ["method.png", "image.png"]
-                }
-              ]
-            },
             {
               "title": "Letalite",
             
               "indicators": [
                 {
                   "name": "National",
-                  "images": ["obj1.png", "obj2.png"]
+                  "images": ["palu_letalite.png"]
                 },
                 {
                   "name": "Regional",
-                  "images": ["method.png", "image.png"]
+                  "images": ["palu_region_letalite.png"]
+                }
+                
+              ]
+            },
+            {
+              "title": "Morbidite",
+        
+              "indicators": [
+                {
+                  "name": "National",
+                  "images": ["Palu_nat_morbodite.png"]
                 },
                 {
-                  "name": "District",
-                  "images": ["method.png", "image.png"]
+                  "name": "Regional",
+                  "images": ["palu_region_morbidite.png"]
                 }
+                
               ]
-            }
+            }    
           ]
         },
         {
