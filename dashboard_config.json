@@ -270,16 +270,13 @@
               "indicators": [
                 {
                   "name": "National",
-                  "images": ["obj1.png", "obj2.png"]
+                  "images": ["Respiratoire/respi_nat_morbidite.png"]
                 },
                 {
                   "name": "Regional",
-                  "images": ["method.png", "image.png"]
-                },
-                {
-                  "name": "District",
-                  "images": ["method.png", "image.png"]
+                  "images": ["Respiratoire/respi_region_morbidite.png"]
                 }
+               
               ]
             }    
           ]
