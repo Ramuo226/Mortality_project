@@ -417,16 +417,13 @@
               "indicators": [
                 {
                   "name": "National",
-                  "images": ["Anemie/anemie.png"]
+                  "images": ["Anemie/anemie_nat_mortalite.png"]
                 },
                 {
                   "name": "Regional",
-                  "images": ["method.png", "image.png"]
-                },
-                {
-                  "name": "District",
-                  "images": ["method.png", "image.png"]
+                  "images": ["Anemie/anemie_region_mortalite.png"]
                 }
+               
               ]
             },
             {
@@ -435,16 +432,13 @@
               "indicators": [
                 {
                   "name": "National",
-                  "images": ["obj1.png", "obj2.png"]
+                  "images": ["Anemie/anemie_nat_letalite.png"]
                 },
                 {
                   "name": "Regional",
-                  "images": ["method.png", "image.png"]
-                },
-                {
-                  "name": "District",
-                  "images": ["method.png", "image.png"]
+                  "images": ["Anemie/anemie_region_mortalite.png"]
                 }
+                
               ]
             },
             {
@@ -453,16 +447,13 @@
               "indicators": [
                 {
                   "name": "National",
-                  "images": ["obj1.png", "obj2.png"]
+                  "images": ["Anemie/anemie_nat_morbidite.png"]
                 },
                 {
                   "name": "Regional",
-                  "images": ["method.png", "image.png"]
-                },
-                {
-                  "name": "District",
-                  "images": ["method.png", "image.png"]
+                  "images": ["Anemie/anemie_region_morbidite.png", ""Anemie/anemie_region_morbidite_MIS.png"]
                 }
+                
               ]
             }
           ]
