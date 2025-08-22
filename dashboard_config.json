@@ -451,7 +451,7 @@
                 },
                 {
                   "name": "Regional",
-                  "images": ["Anemie/anemie_region_morbidite.png", ""Anemie/anemie_region_morbidite_MIS.png"]
+                  "images": ["Anemie/anemie_region_morbidite.png", "Anemie/anemie_region_morbidite_MIS.png"]
                 }
                 
               ]
