@@ -459,6 +459,58 @@
           ]
         },
         {
+          "id": "hemorragie",
+          "title": "Hemorragie",
+          "enabled": true,
+          "subsections": [
+            {
+              "title": "Mortalité Spécifique",
+        
+              "indicators": [
+                {
+                  "name": "National",
+                  "images": ["Hemorragie/Hemorr_nat_mortalite.png"]
+                },
+                {
+                  "name": "Regional",
+                  "images": ["Hemorragie/Hemorr_region_mortalite.png"]
+                }
+               
+              ]
+            },
+            {
+              "title": "Létalité",
+        
+              "indicators": [
+                {
+                  "name": "National",
+                  "images": ["Hemorragie/Hemorr_nat_letalite.png"]
+                },
+                {
+                  "name": "Regional",
+                  "images": ["Hemorragie/Hemorr_region_mortalite.png"]
+                }
+                
+              ]
+            },
+            {
+              "title": "Morbidite",
+        
+              "indicators": [
+                {
+                  "name": "National",
+                  "images": ["Hemorragie/Hemorr_nat_morbidite.png"]
+                },
+                {
+                  "name": "Regional",
+                  "images": ["Hemorragie/Hemorr_region_morbidite.png"]
+                }
+                
+              ]
+            }
+          ]
+        },
+        {
           "id": "infections_neonatales",
           "title": "Infections Néonatales",
           "enabled": true,
