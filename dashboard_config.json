@@ -417,7 +417,7 @@
               "indicators": [
                 {
                   "name": "National",
-                  "images": ["obj1.png", "obj2.png"]
+                  "images": ["Anemie/anemie.png"]
                 },
                 {
                   "name": "Regional",
