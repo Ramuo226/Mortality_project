@@ -330,15 +330,11 @@
               "indicators": [
                 {
                   "name": "National",
-                  "images": ["obj1.png", "obj2.png"]
+                  "images": ["Malnutrtion/Aigue/aigue_nat_mortalite.png"]
                 },
                 {
                   "name": "Regional",
-                  "images": ["method.png", "image.png"]
-                },
-                {
-                  "name": "District",
-                  "images": ["method.png", "image.png"]
+                  "images": ["Malnutrtion/Aigue/aigue_region_mortalite.png"]
                 }
               ]
             },
@@ -348,16 +344,13 @@
               "indicators": [
                 {
                   "name": "National",
-                  "images": ["obj1.png", "obj2.png"]
+                  "images": ["Malnutrtion/Aigue/aigue_mal_nat_letalite.png"]
                 },
                 {
                   "name": "Regional",
-                  "images": ["method.png", "image.png"]
-                },
-                {
-                  "name": "District",
-                  "images": ["method.png", "image.png"]
+                  "images": ["Malnutrtion/Aigue/aigue_mal_region_letalite.png"]
                 }
+                
               ]
             },
             {
