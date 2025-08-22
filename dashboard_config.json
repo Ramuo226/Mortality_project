@@ -354,6 +354,21 @@
               ]
             },
             {
+              "title": "Morbidité",
+              
+              "indicators": [
+                {
+                  "name": "National",
+                  "images": ["Malnutrtion/Aigue/aigue_mal_nat_morbidite.png"]
+                },
+                {
+                  "name": "Regional",
+                  "images": ["Malnutrtion/Aigue/aigue_mal_region_morbidite.png"]
+                }
+                
+              ]
+            },
+            {
               "title": "Prévalence de la Malnutrition",
           
               "indicators": [
